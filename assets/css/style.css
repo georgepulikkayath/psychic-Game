@@ -1,0 +1,18 @@
+.container{
+    max-width: 100%;
+    height:615px;
+    margin:10px;
+    padding:10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:#777777;
+}
+.head{
+    color:blue;
+    font-size: 25px;
+}
+.sub1{
+    margin-top:10px;
+    padding: 2px;
+    font-size: 20px
+}
